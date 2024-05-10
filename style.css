@@ -1,4 +1,37 @@
-.cabecalho{
-background-color: rgb(212, 24, 24);
+* {
+    margin: 0;
+    padding: 0;
 
+}
+
+.cabecalho{
+    background-color: black(0, 0, 0);
+    color: azure;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px 0;
+
+
+}
+
+.cabecalho-imagem{
+    width: 30%;
+
+
+}
+
+.pergunta{
+    background-image: linear-gradient(040404);
+padding: 30mm;
+color: brown;
+display: flex;
+justify-content: center;;
+text-align: justify;
+
+
+}
+
+.pergunta {
+    width: 30%;
 }
